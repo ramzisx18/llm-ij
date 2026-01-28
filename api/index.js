@@ -13,6 +13,8 @@ export default function handler(req, res) {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>التحقق مطلوب - Verification Required</title>
+        <link rel="icon" type="image/svg+xml" href="/api/favicon.ico">
+        <link rel="alternate icon" href="/api/favicon.ico">
         <style>
           * {
             margin: 0;
@@ -133,6 +135,8 @@ export default function handler(req, res) {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>مرحباً - Welcome</title>
+      <link rel="icon" type="image/svg+xml" href="/api/favicon.ico">
+      <link rel="alternate icon" href="/api/favicon.ico">
       <style>
         * {
           margin: 0;

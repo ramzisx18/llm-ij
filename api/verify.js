@@ -27,6 +27,8 @@ export default async function handler(req, res) {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>تم التحقق - Verification Complete</title>
+        <link rel="icon" type="image/svg+xml" href="/api/favicon.ico">
+        <link rel="alternate icon" href="/api/favicon.ico">
         <style>
           * {
             margin: 0;
@@ -169,6 +171,8 @@ export default async function handler(req, res) {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>خطأ في التحقق - Verification Error</title>
+        <link rel="icon" type="image/svg+xml" href="/api/favicon.ico">
+        <link rel="alternate icon" href="/api/favicon.ico">
         <style>
           body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
