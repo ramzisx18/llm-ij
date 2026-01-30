@@ -1,4 +1,23 @@
 {
-  "name": "bot-challenge",
-  "version": "1.0.0"
+  "name": "bot-challenge-system",
+  "version": "1.0.0",
+  "description": "Advanced bot detection and challenge system with enhanced UI",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "bot-detection",
+    "security",
+    "vercel",
+    "serverless",
+    "challenge"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
